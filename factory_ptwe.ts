@@ -1,0 +1,1 @@
+const service_ptwe = <T>(args: T): T => { return args; };
