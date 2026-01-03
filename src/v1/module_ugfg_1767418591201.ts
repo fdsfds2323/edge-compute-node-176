@@ -1,0 +1,1 @@
+const util_ugfg = (d: any) => d;
